@@ -2,6 +2,6 @@
 
 eval "$(conda shell.bash hook)"
 
-conda activate ActionRecog
+conda activate action_rec
 
 python HAR_Main.py
